@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-camera/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yifenglai/.android/build-cache/f29f9d3e9b5d091b912f7150c009cc1e63284dce/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-camera/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yifenglai/.android/build-cache/f29f9d3e9b5d091b912f7150c009cc1e63284dce/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-camera/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yifenglai/.android/build-cache/f29f9d3e9b5d091b912f7150c009cc1e63284dce/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-camera/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yifenglai/.android/build-cache/f29f9d3e9b5d091b912f7150c009cc1e63284dce/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

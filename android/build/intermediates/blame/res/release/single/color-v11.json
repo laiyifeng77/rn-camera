@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yifenglai/.android/build-cache/f29f9d3e9b5d091b912f7150c009cc1e63284dce/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/yifenglai/proj/rn/ofo-engine/node_modules/react-native-camera/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yifenglai/.android/build-cache/f29f9d3e9b5d091b912f7150c009cc1e63284dce/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
